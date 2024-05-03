@@ -1,0 +1,344 @@
+[
+  {
+    "question": "What is the capital of Japan?",
+    "answers": [
+      {"text": "Tokyo", "correct": true},
+      {"text": "Beijing", "correct": false},
+      {"text": "Seoul", "correct": false},
+      {"text": "Bangkok", "correct": false}
+    ]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [
+      {"text": "Mars", "correct": true},
+      {"text": "Venus", "correct": false},
+      {"text": "Mercury", "correct": false},
+      {"text": "Jupiter", "correct": false}
+    ]
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answers": [
+      {"text": "Leonardo da Vinci", "correct": true},
+      {"text": "Pablo Picasso", "correct": false},
+      {"text": "Vincent van Gogh", "correct": false},
+      {"text": "Claude Monet", "correct": false}
+    ]
+  },
+  {
+    "question": "Which element has the chemical symbol 'H'?",
+    "answers": [
+      {"text": "Hydrogen", "correct": true},
+      {"text": "Helium", "correct": false},
+      {"text": "Iron", "correct": false},
+      {"text": "Gold", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answers": [
+      {"text": "Mount Everest", "correct": true},
+      {"text": "K2", "correct": false},
+      {"text": "Kangchenjunga", "correct": false},
+      {"text": "Makalu", "correct": false}
+    ]
+  },
+  {
+    "question": "Which planet is closest to the sun?",
+    "answers": [
+      {"text": "Mercury", "correct": true},
+      {"text": "Venus", "correct": false},
+      {"text": "Mars", "correct": false},
+      {"text": "Earth", "correct": false}
+    ]
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answers": [
+      {"text": "William Shakespeare", "correct": true},
+      {"text": "Jane Austen", "correct": false},
+      {"text": "Charles Dickens", "correct": false},
+      {"text": "Mark Twain", "correct": false}
+    ]
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "answers": [
+      {"text": "Japan", "correct": true},
+      {"text": "China", "correct": false},
+      {"text": "South Korea", "correct": false},
+      {"text": "Vietnam", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answers": [
+      {"text": "Au", "correct": true},
+      {"text": "Ag", "correct": false},
+      {"text": "Fe", "correct": false},
+      {"text": "Cu", "correct": false}
+    ]
+  },
+  {
+    "question": "Who was the first person to step on the moon?",
+    "answers": [
+      {"text": "Neil Armstrong", "correct": true},
+      {"text": "Buzz Aldrin", "correct": false},
+      {"text": "Yuri Gagarin", "correct": false},
+      {"text": "Alan Shepard", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "answers": [
+      {"text": "Blue Whale", "correct": true},
+      {"text": "Elephant", "correct": false},
+      {"text": "Giraffe", "correct": false},
+      {"text": "Hippopotamus", "correct": false}
+    ]
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star'?",
+    "answers": [
+      {"text": "Venus", "correct": true},
+      {"text": "Mercury", "correct": false},
+      {"text": "Mars", "correct": false},
+      {"text": "Jupiter", "correct": false}
+    ]
+  },
+  {
+    "question": "Who painted 'The Starry Night'?",
+    "answers": [
+      {"text": "Vincent van Gogh", "correct": true},
+      {"text": "Leonardo da Vinci", "correct": false},
+      {"text": "Pablo Picasso", "correct": false},
+      {"text": "Claude Monet", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "answers": [
+      {"text": "Pound Sterling", "correct": true},
+      {"text": "Euro", "correct": false},
+      {"text": "Dollar", "correct": false},
+      {"text": "Yen", "correct": false}
+    ]
+  },
+  {
+    "question": "Who wrote 'The Adventures of Huckleberry Finn'?",
+    "answers": [
+      {"text": "Mark Twain", "correct": true},
+      {"text": "Charles Dickens", "correct": false},
+      {"text": "Jane Austen", "correct": false},
+      {"text": "William Shakespeare", "correct": false}
+    ]
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "answers": [
+      {"text": "Carbon dioxide", "correct": true},
+      {"text": "Oxygen", "correct": false},
+      {"text": "Nitrogen", "correct": false},
+      {"text": "Helium", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "answers": [
+      {"text": "Skin", "correct": true},
+      {"text": "Liver", "correct": false},
+      {"text": "Heart", "correct": false},
+      {"text": "Lung", "correct": false}
+    ]
+  },
+  {
+    "question": "Who invented the telephone?",
+    "answers": [
+      {"text": "Alexander Graham Bell", "correct": true},
+      {"text": "Thomas Edison", "correct": false},
+      {"text": "Nikola Tesla", "correct": false},
+      {"text": "Guglielmo Marconi", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answers": [
+      {"text": "Canberra", "correct": true},
+      {"text": "Sydney", "correct": false},
+      {"text": "Melbourne", "correct": false},
+      {"text": "Brisbane", "correct": false}
+    ]
+  },
+  {
+    "question": "Which country is the largest by land area?",
+    "answers": [
+      {"text": "Russia", "correct": true},
+      {"text": "Canada", "correct": false},
+      {"text": "China", "correct": false},
+      {"text": "United States", "correct": false}
+    ]
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "answers": [
+      {"text": "Harper Lee", "correct": true},
+      {"text": "F. Scott Fitzgerald", "correct": false},
+      {"text": "John Steinbeck", "correct": false},
+      {"text": "Ernest Hemingway", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answers": [
+      {"text": "Pacific Ocean", "correct": true},
+      {"text": "Atlantic Ocean", "correct": false},
+      {"text": "Indian Ocean", "correct": false},
+      {"text": "Arctic Ocean", "correct": false}
+    ]
+  },
+  {
+    "question": "Which planet is known as the 'Evening Star'?",
+    "answers": [
+      {"text": "Venus", "correct": true},
+      {"text": "Mercury", "correct": false},
+      {"text": "Mars", "correct": false},
+      {"text": "Jupiter", "correct": false}
+    ]
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answers": [
+      {"text": "Alexander Fleming", "correct": true},
+      {"text": "Louis Pasteur", "correct": false},
+      {"text": "Marie Curie", "correct": false},
+      {"text": "Robert Koch", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answers": [
+      {"text": "H2O", "correct": true},
+      {"text": "CO2", "correct": false},
+      {"text": "NaCl", "correct": false},
+      {"text": "O2", "correct": false}
+    ]
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "answers": [
+      {"text": "F. Scott Fitzgerald", "correct": true},
+      {"text": "Ernest Hemingway", "correct": false},
+      {"text": "Harper Lee", "correct": false},
+      {"text": "John Steinbeck", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "answers": [
+      {"text": "Antarctica", "correct": true},
+      {"text": "Sahara", "correct": false},
+      {"text": "Arabian", "correct": false},
+      {"text": "Gobi", "correct": false}
+    ]
+  },
+  {
+    "question": "Who is known as the 'Father of Geometry'?",
+    "answers": [
+      {"text": "Euclid", "correct": true},
+      {"text": "Pythagoras", "correct": false},
+      {"text": "Archimedes", "correct": false},
+      {"text": "Aristotle", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the largest continent?",
+    "answers": [
+      {"text": "Asia", "correct": true},
+      {"text": "Africa", "correct": false},
+      {"text": "North America", "correct": false},
+      {"text": "South America", "correct": false}
+    ]
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "answers": [
+      {"text": "Michelangelo", "correct": true},
+      {"text": "Leonardo da Vinci", "correct": false},
+      {"text": "Raphael", "correct": false},
+      {"text": "Donatello", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "answers": [
+      {"text": "Madrid", "correct": true},
+      {"text": "Barcelona", "correct": false},
+      {"text": "Valencia", "correct": false},
+      {"text": "Seville", "correct": false}
+    ]
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "answers": [
+      {"text": "Oxygen", "correct": true},
+      {"text": "Osmium", "correct": false},
+      {"text": "Osmium", "correct": false},
+      {"text": "Oxygenium", "correct": false}
+    ]
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "answers": [
+      {"text": "George Orwell", "correct": true},
+      {"text": "Aldous Huxley", "correct": false},
+      {"text": "Ray Bradbury", "correct": false},
+      {"text": "J.R.R. Tolkien", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the chemical symbol for iron?",
+    "answers": [
+      {"text": "Fe", "correct": true},
+      {"text": "Au", "correct": false},
+      {"text": "Ag", "correct": false},
+      {"text": "Cu", "correct": false}
+    ]
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "answers": [
+      {"text": "Jane Austen", "correct": true},
+      {"text": "Charlotte Brontë", "correct": false},
+      {"text": "Emily Brontë", "correct": false},
+      {"text": "Mary Shelley", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "answers": [
+      {"text": "Ag", "correct": true},
+      {"text": "Au", "correct": false},
+      {"text": "Fe", "correct": false},
+      {"text": "Cu", "correct": false}
+    ]
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "answers": [
+      {"text": "Marie Curie", "correct": true},
+      {"text": "Rosalind Franklin", "correct": false},
+      {"text": "Dorothy Hodgkin", "correct": false},
+      {"text": "Barbara McClintock", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "answers": [
+      {"text": "Rome", "correct": true},
+      {"text": "Milan", "correct": false},
+      {"text": "Naples", "correct": false},
+      {"text": "Florence", "correct": false}
+    ]
+  }
+]
