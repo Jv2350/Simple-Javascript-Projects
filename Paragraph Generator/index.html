@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Paragraph Generator</title>
+</head>
+
+<body>
+    <h1>Random Paragraph Generator</h1>
+    <button onclick="generateParagraph()">Generate Paragraph</button>
+    <p id="paragraph"></p>
+
+    <script>
+        function generateRandomWord(words) {
+            return words[Math.floor(Math.random() * words.length)];
+        }
+
+        function generateParagraph() {
+            const subjects = ['The cat', 'A dog', 'A bird', 'A rabbit'];
+            const verbs = ['jumped', 'ran', 'flew', 'hopped'];
+            const objects = ['over the fence', 'across the road', 'into the bushes', 'onto the roof'];
+
+            const numSentences = 5;
+            let paragraph = '';
+
+            for (let i = 0; i < numSentences; i++) {
+                const subject = generateRandomWord(subjects);
+                const verb = generateRandomWord(verbs);
+                const object = generateRandomWord(objects);
+
+                paragraph += `${subject} ${verb} ${object}. `;
+            }
+
+            const paragraphElement = document.getElementById('paragraph');
+            paragraphElement.textContent = paragraph;
+        }
+    </script>
+</body>
+
+</html>
